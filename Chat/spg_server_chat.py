@@ -39,4 +39,3 @@ while True:
 main_chat.close()
 
 
-# Thanks my self for create this cool code 
